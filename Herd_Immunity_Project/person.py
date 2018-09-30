@@ -1,5 +1,6 @@
 import random
-# TODO: Import the virus clase
+# TODO: Import the virus class
+import 
 
 class Person(object):
     '''
@@ -44,14 +45,32 @@ class Person(object):
     def __init__(self, _id, is_vaccinated, infection=None):
         # TODO:  Finish this method.  Follow the instructions in the class documentation
         # to set the corret values for the following attributes.
-        self._id = None
-        self.is_vaccinated = None
-        self.is_alive = None
-        self.infection = None
+        self._id = _id
+        self.is_vaccinated = is_vaccinated
+        self.is_alive = True
+        self.infection = infection
 
 
-    def did_survive_infection():
+    def did_survive_infection(self):
         # TODO:  Finish this method. Follow the instructions in the class documentation
         # for resolve_infection.  If person dies, set is_alive to False and return False.
         # If person lives, set is_vaccinated = True, infection = None, return True.  
-        pass
+        
+        if self.infection:
+          random_number = random.uniform(0, 1)
+          # TODO: Unsure if this is what they are hinting at to get the mortality rate? Need some clarification with this. No Virus class? 
+          virus_mortality_rate = self.infection.mortality_rate
+          if random_number < virus_mortality_rate:
+              self.is_alive = False
+          else:
+              self.infection = None
+              self.is_vaccinated = True
+
+        
+
+
+
+
+
+        else:
+            print("The person is not infected!")
