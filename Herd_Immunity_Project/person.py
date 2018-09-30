@@ -1,6 +1,6 @@
 import random
 # TODO: Import the virus class
-import 
+from simulation import Simulation
 
 class Person(object):
     '''
@@ -65,12 +65,5 @@ class Person(object):
           else:
               self.infection = None
               self.is_vaccinated = True
-
-        
-
-
-
-
-
         else:
             print("The person is not infected!")
