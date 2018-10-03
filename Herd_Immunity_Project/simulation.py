@@ -115,7 +115,7 @@ class Simulation(object):
                 # Don't forget to increment infected_count every time you create a
                 # new infected person!
                 virus = Virus(self.virus_name,self.mortality_rate,self.repro_rate)
-                infected_person = Person(self.next_person_id,false,)
+                infected_person = Person(self.next_person_id,False,virus)
                 self.next_person_id += 1 
                 population.append(infected_person)
                 infected_count += 1
@@ -125,7 +125,7 @@ class Simulation(object):
                 random_number = random.uniform(0, 1)
                 if random_number < self.vacc_percentage:
                     vaccinated_person = Person(self.next_person_id,True)
-                     self.next_person_id += 1
+                    self.next_person_id += 1
                     population.append(vaccinated_person)
                    
                 else: 
@@ -183,6 +183,8 @@ class Simulation(object):
         should_continue = self._simulation_should_continue()
         while should_continue:
             self.time_step()
+            time_step_counter += 1
+            self.logger.log_time_step(time_step_counter)
             should_continue = self._simulation_should_continue()
         # TODO: for every iteration of this loop, call self.time_step() to compute another
         # round of this simulation.  At the end of each iteration of this loop, remember
@@ -203,7 +205,9 @@ class Simulation(object):
             #               - Increment interaction counter by 1.
         interaction_counter = 0 
         while interaction_counter != 100: 
-            random_ = random.uniform(0, 1)
+            random_number = random.uniform(0,len(self.population))
+
+
 
     def interaction(self, person, random_person):
         # TODO: Finish this method! This method should be called any time two living
@@ -219,7 +223,7 @@ class Simulation(object):
         else:
             random_number = random.uniform(0, 1)
             if random_number < self.basic_repro_num: 
-                self.newly_infected.append(random_person._id)
+                self.newly_infected.append(random_person)
             else:
                 print("The person escaped infection by chance! How lucky!")
         self.logger.log_interaction()
@@ -247,6 +251,10 @@ class Simulation(object):
         #   - Set this Person's .infected attribute to True.
         # NOTE: Once you have iterated through the entire list of self.newly_infected, remember
         # to reset self.newly_infected back to an empty list!
+
+        for item in self.newly_infected:
+            item.infection = self.
+
 
 if __name__ == "__main__":
     params = sys.argv[1:]
