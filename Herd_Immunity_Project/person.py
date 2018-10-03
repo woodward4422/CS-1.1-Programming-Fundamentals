@@ -1,6 +1,7 @@
 import random
 # TODO: Import the virus class
 from simulation import Simulation
+import virus
 
 class Person(object):
     '''
