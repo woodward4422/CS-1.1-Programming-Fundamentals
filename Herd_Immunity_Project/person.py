@@ -1,7 +1,6 @@
 import random
 # TODO: Import the virus class
-from simulation import Simulation
-import virus
+from virus import Virus
 
 class Person(object):
     '''
@@ -50,6 +49,7 @@ class Person(object):
         self.is_vaccinated = is_vaccinated
         self.is_alive = True
         self.infection = infection
+        
 
 
     def did_survive_infection(self):
@@ -58,8 +58,7 @@ class Person(object):
         # If person lives, set is_vaccinated = True, infection = None, return True.  
         
         if self.infection:
-          random_number = random.uniform(0, 1)
-          # TODO: Unsure if this is what they are hinting at to get the mortality rate? Need some clarification with this. No Virus class? 
+          random_number = random.uniform(0, 1) 
           virus_mortality_rate = self.infection.mortality_rate
           if random_number < virus_mortality_rate:
               self.is_alive = False
@@ -68,3 +67,36 @@ class Person(object):
               self.is_vaccinated = True
         else:
             print("The person is not infected!")
+
+# Tests to see whether or not the person instantiation is correct 
+def test_person_instantiation():
+    test_person = Person(123,True)
+    assert test_person._id == 123
+    assert test_person.is_vaccinated == True
+    assert test_person.is_alive == True 
+    # Didnt set a virus, just set the vaccination here to be False and an Infection to be true just to check
+    test_person_two = Person(124,False,True)
+    assert test_person_two._id == 124
+    assert test_person_two.is_vaccinated == False 
+    assert test_person_two.infection == True
+# Tests to see if the logic in the person method of did_survive_simulation to see if it is correct
+def test_person_did_survive_simulation():
+    test_person = Person(124,False,Virus("Ebola",1.5,0.8))
+    assert test_person._id == 124
+    assert test_person.is_vaccinated == False
+    assert test_person.is_alive == True
+    assert test_person.infection.name == "Ebola"
+    assert test_person.infection.repro_rate == 0.8
+    test_person.did_survive_infection()
+    assert test_person.is_alive == False
+    test_person_two = Person(125,False,Virus("Ebola",-1.0,0.5))
+    test_person_two.did_survive_infection()
+    test_person_two.is_alive == True 
+    
+    
+
+
+
+
+    
+
