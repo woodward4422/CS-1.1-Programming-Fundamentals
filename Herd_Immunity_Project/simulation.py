@@ -204,8 +204,29 @@ class Simulation(object):
             #               - Call simulation.interaction(person, random_person)
             #               - Increment interaction counter by 1.
         interaction_counter = 0 
+        is_person_infected = False
+        person = None
         while interaction_counter != 100: 
-            random_number = random.uniform(0,len(self.population))
+           while is_person_infected == False:
+               random_number_infected = random.uniform(0,len(self.population))
+               randy_person = self.population(random_number_infected)
+               if randy_person.infection == None:
+                   print("The random person selected is not infected!")
+               else:
+                    is_person_infected = True
+                    person = randy_person
+        
+            random_number_normal = random.uniform(0,len(self.population))
+            random_person = self.population()
+            if random_person.is_alive == False: 
+                print("This person is dead")
+            else:
+                self.interaction(person,randy_person)
+                interaction_counter += 1
+
+
+
+
 
 
 
@@ -253,7 +274,8 @@ class Simulation(object):
         # to reset self.newly_infected back to an empty list!
 
         for item in self.newly_infected:
-            item.infection = self.
+            item.infection = Virus(self.virus_name,self.mortality_rate,self.repro_rate)
+        self.newly_infected = [] 
 
 
 if __name__ == "__main__":
