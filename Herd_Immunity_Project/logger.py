@@ -53,10 +53,9 @@ class Logger(object):
     def __init__(self, file_name):
         # TODO:  Finish this initialization method.  The file_name passed should be the
         # full file name of the file that the logs will be written to.
-        self.file_name = None
+        self.file_name = file_name
 
-    def write_metadata(self, pop_size, vacc_percentage, virus_name, mortality_rate,
-                       basic_repro_num):
+    def write_metadata(self, pop_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num):
         # TODO: Finish this method.  The simulation class should use this method
         # immediately upon creation, to log the specific parameters of the simulation
         # as the first line of the file.  This line of metadata should be tab-delimited
@@ -67,10 +66,20 @@ class Logger(object):
         # since 'w' overwrites the file.
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        pass
 
-    def log_interaction(self, person1, person2, did_infect=None,
-                        person2_vacc=None, person2_sick=None):
+                
+        with open(self.file_name,'w') as logger:
+            logger.write("METADATA\n\n")
+            logger.write("Population Size: {}\n".format(pop_size))
+            logger.write("Percentage Vaccinated: {}\n".format(vacc_percentage))
+            logger.write("Virus Name: {}\n".format(virus_name))
+            logger.write("Mortality Rate: {}\n".format(mortality_rate))
+            logger.write("Basic Reproduction Rate: {}".format(basic_repro_num))
+
+            logger.write(pop_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num, end="\t")
+        
+
+    def log_interaction(self, person1, person2, did_infect):
         # TODO: Finish this method.  The Simulation object should use this method to
         # log every interaction a sick individual has during each time step.  This method
         # should accomplish this by using the information from person1 (the infected person),
@@ -82,7 +91,17 @@ class Logger(object):
         # all the possible edge cases!
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        pass
+        
+        with open(self.file_name,'a') as logger:
+            logger.write("Interaction:\n\n")
+            if did_infect:
+                logger.write("{} infects {} \n".format(person1._id,person2._id))
+            else:
+                logger.write("{} failed to infect {} \n".format(person1._id,person2._id))
+
+        
+        
+
 
     def log_infection_survival(self, person, did_die_from_infection):
         # TODO: Finish this method.  The Simulation object should use this method to log
@@ -92,7 +111,15 @@ class Logger(object):
         # on the format of the log.
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        pass
+        
+        with open(self.file_name,'a') as logger:
+            logger.write("Did Die From Infection:\n\n")
+            if did_die_from_infection:
+                logger.write("{} has died from the infection \n".format(person._id))
+            else:
+                logger.write("{} did not die from the infection \n".format(person._id))
+
+
 
     def log_time_step(self, time_step_number):
         # TODO: Finish this method.  This method should log when a time step ends, and a
@@ -103,4 +130,11 @@ class Logger(object):
         # to compute these statistics for you, as a Logger's job is just to write logs!
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        pass
+       
+       with open(self.file_name,'a') as logger:
+            logger.write("Time Step number:\n\n")
+            logger.write("Time step {} ended, beginning {}\n".format(time_step_number,time_step_number+1))
+
+            
+          
+

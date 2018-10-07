@@ -1,1 +1,4 @@
-{}
+{
+  "simulation.py::test_run": true,
+  "simulation.py::test_time_step": true
+}

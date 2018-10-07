@@ -1,1 +1,3 @@
 # 10/2/2018 at 5:17 PM, TODO: I need to do the time step in the simulation, Questions: Why does it say for each infected person in the time_step, I thought we were doing only 100 random interactions in total.  
+
+# Simulation says to set the infected attribute to true on the person in the list. However, there is no infected attribute its only the infection attribute which either has a virus object or is None

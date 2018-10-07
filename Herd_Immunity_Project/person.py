@@ -62,6 +62,7 @@ class Person(object):
           virus_mortality_rate = self.infection.mortality_rate
           if random_number < virus_mortality_rate:
               self.is_alive = False
+              print("This Person has died")
           else:
               self.infection = None
               self.is_vaccinated = True
