@@ -1,0 +1,3643 @@
+METADATA
+
+Population Size: 100
+Percentage Vaccinated: 0.8
+Virus Name: Ebola
+Mortality Rate: 0.7
+Basic Reproduction Rate: 0.3 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 87 
+Interaction:
+
+0 failed to infect 87 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 34 
+Interaction:
+
+0 failed to infect 43 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 37 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 0 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 64 
+Interaction:
+
+0 infects 97 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 64 
+Interaction:
+
+0 infects 77 
+Interaction:
+
+0 failed to infect 20 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 99 
+Interaction:
+
+0 failed to infect 0 
+Interaction:
+
+0 failed to infect 76 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 2 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 46 
+Interaction:
+
+0 infects 39 
+Interaction:
+
+0 failed to infect 72 
+Interaction:
+
+0 failed to infect 10 
+Interaction:
+
+0 failed to infect 93 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 8 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 98 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 infects 21 
+Interaction:
+
+0 failed to infect 54 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 93 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 25 
+Interaction:
+
+0 failed to infect 51 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 47 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 66 
+Interaction:
+
+0 failed to infect 57 
+Interaction:
+
+0 failed to infect 15 
+Interaction:
+
+0 infects 31 
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 29 
+Interaction:
+
+0 failed to infect 0 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 90 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 infects 7 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 infects 65 
+Interaction:
+
+0 failed to infect 27 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 73 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 54 
+Interaction:
+
+0 failed to infect 93 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 82 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 7 
+Interaction:
+
+0 failed to infect 51 
+Interaction:
+
+0 failed to infect 93 
+Interaction:
+
+0 failed to infect 43 
+Interaction:
+
+0 failed to infect 13 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 57 
+Interaction:
+
+0 failed to infect 17 
+Interaction:
+
+0 infects 54 
+Interaction:
+
+0 failed to infect 9 
+Time Step number:
+
+Time step 1 ended, beginning 2
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 11 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 21 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 infects 61 
+Interaction:
+
+0 failed to infect 7 
+Interaction:
+
+0 failed to infect 21 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 0 
+Interaction:
+
+0 failed to infect 49 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 93 
+Interaction:
+
+0 failed to infect 71 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 infects 19 
+Interaction:
+
+0 failed to infect 7 
+Interaction:
+
+0 failed to infect 74 
+Interaction:
+
+0 failed to infect 94 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 7 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 40 
+Interaction:
+
+0 failed to infect 7 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 74 
+Interaction:
+
+0 failed to infect 64 
+Interaction:
+
+0 failed to infect 67 
+Interaction:
+
+0 failed to infect 20 
+Interaction:
+
+0 failed to infect 7 
+Interaction:
+
+0 failed to infect 10 
+Interaction:
+
+0 failed to infect 23 
+Interaction:
+
+0 failed to infect 8 
+Interaction:
+
+0 failed to infect 76 
+Interaction:
+
+0 failed to infect 8 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 51 
+Interaction:
+
+0 failed to infect 15 
+Interaction:
+
+0 infects 72 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 10 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 66 
+Interaction:
+
+0 failed to infect 40 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 26 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 91 
+Interaction:
+
+0 failed to infect 40 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 50 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 82 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 40 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 27 
+Interaction:
+
+0 failed to infect 64 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 44 
+Interaction:
+
+0 failed to infect 8 
+Interaction:
+
+0 failed to infect 47 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 20 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 90 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 78 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 67 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 infects 84 
+Time Step number:
+
+Time step 2 ended, beginning 3
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 13 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 infects 34 
+Interaction:
+
+0 failed to infect 43 
+Interaction:
+
+0 failed to infect 26 
+Interaction:
+
+0 failed to infect 87 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 64 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 32 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 11 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 5 
+Interaction:
+
+0 failed to infect 0 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 98 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 20 
+Interaction:
+
+0 failed to infect 94 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 90 
+Interaction:
+
+0 failed to infect 71 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 4 
+Interaction:
+
+0 failed to infect 47 
+Interaction:
+
+0 failed to infect 74 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 18 
+Interaction:
+
+0 failed to infect 55 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 5 
+Interaction:
+
+0 failed to infect 46 
+Interaction:
+
+0 failed to infect 5 
+Interaction:
+
+0 failed to infect 45 
+Interaction:
+
+0 failed to infect 26 
+Interaction:
+
+0 infects 87 
+Interaction:
+
+0 failed to infect 99 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 20 
+Interaction:
+
+0 failed to infect 22 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 3 
+Interaction:
+
+0 failed to infect 22 
+Interaction:
+
+0 failed to infect 94 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 94 
+Interaction:
+
+0 failed to infect 20 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 13 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 4 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 28 
+Interaction:
+
+0 failed to infect 25 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 44 
+Interaction:
+
+0 infects 29 
+Interaction:
+
+0 failed to infect 51 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 8 
+Interaction:
+
+0 failed to infect 98 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 44 
+Interaction:
+
+0 failed to infect 82 
+Interaction:
+
+0 failed to infect 51 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 3 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 22 
+Interaction:
+
+0 failed to infect 74 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 4 
+Interaction:
+
+0 failed to infect 13 
+Interaction:
+
+0 failed to infect 76 
+Interaction:
+
+0 failed to infect 55 
+Interaction:
+
+0 failed to infect 44 
+Interaction:
+
+0 failed to infect 93 
+Interaction:
+
+0 failed to infect 40 
+Interaction:
+
+0 failed to infect 55 
+Time Step number:
+
+Time step 3 ended, beginning 4
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 49 
+Interaction:
+
+0 infects 73 
+Interaction:
+
+0 failed to infect 55 
+Interaction:
+
+0 failed to infect 0 
+Interaction:
+
+0 failed to infect 66 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 94 
+Interaction:
+
+0 failed to infect 94 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 25 
+Interaction:
+
+0 failed to infect 8 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 40 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 15 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 64 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 51 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 37 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 22 
+Interaction:
+
+0 failed to infect 78 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 51 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 0 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 26 
+Interaction:
+
+0 failed to infect 55 
+Interaction:
+
+0 failed to infect 74 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 27 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 94 
+Interaction:
+
+0 failed to infect 21 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 10 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 11 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 28 
+Interaction:
+
+0 infects 25 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 78 
+Interaction:
+
+0 failed to infect 98 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 91 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 49 
+Interaction:
+
+0 failed to infect 63 
+Interaction:
+
+0 failed to infect 51 
+Interaction:
+
+0 failed to infect 18 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 0 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 98 
+Interaction:
+
+0 failed to infect 13 
+Interaction:
+
+0 failed to infect 99 
+Interaction:
+
+0 failed to infect 22 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 66 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 71 
+Interaction:
+
+0 failed to infect 15 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 17 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 85 
+Time Step number:
+
+Time step 4 ended, beginning 5
+Interaction:
+
+0 failed to infect 67 
+Interaction:
+
+0 failed to infect 71 
+Interaction:
+
+0 failed to infect 76 
+Interaction:
+
+0 failed to infect 40 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 78 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 64 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 57 
+Interaction:
+
+0 failed to infect 20 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 57 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 98 
+Interaction:
+
+0 failed to infect 99 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 91 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 40 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 10 
+Interaction:
+
+0 failed to infect 17 
+Interaction:
+
+0 failed to infect 49 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 90 
+Interaction:
+
+0 failed to infect 27 
+Interaction:
+
+0 failed to infect 8 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 7 
+Interaction:
+
+0 failed to infect 26 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 49 
+Interaction:
+
+0 failed to infect 98 
+Interaction:
+
+0 failed to infect 74 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 2 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 0 
+Interaction:
+
+0 failed to infect 45 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 49 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 94 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 28 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 28 
+Interaction:
+
+0 failed to infect 55 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 3 
+Interaction:
+
+0 failed to infect 49 
+Interaction:
+
+0 failed to infect 43 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 51 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 21 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 3 
+Interaction:
+
+0 failed to infect 50 
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 3 
+Interaction:
+
+0 failed to infect 10 
+Interaction:
+
+0 failed to infect 82 
+Interaction:
+
+0 failed to infect 17 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 23 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 27 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 43 
+Time Step number:
+
+Time step 5 ended, beginning 6
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 32 
+Interaction:
+
+0 failed to infect 10 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 2 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 44 
+Interaction:
+
+0 failed to infect 28 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 8 
+Interaction:
+
+0 failed to infect 99 
+Interaction:
+
+0 failed to infect 5 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 3 
+Interaction:
+
+0 failed to infect 2 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 27 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 32 
+Interaction:
+
+0 failed to infect 98 
+Interaction:
+
+0 failed to infect 47 
+Interaction:
+
+0 failed to infect 21 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 91 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 99 
+Interaction:
+
+0 failed to infect 13 
+Interaction:
+
+0 failed to infect 74 
+Interaction:
+
+0 failed to infect 3 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 50 
+Interaction:
+
+0 failed to infect 91 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 failed to infect 13 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 98 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 76 
+Interaction:
+
+0 failed to infect 15 
+Interaction:
+
+0 failed to infect 5 
+Interaction:
+
+0 failed to infect 44 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 47 
+Interaction:
+
+0 failed to infect 8 
+Interaction:
+
+0 failed to infect 64 
+Interaction:
+
+0 failed to infect 82 
+Interaction:
+
+0 failed to infect 43 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 13 
+Interaction:
+
+0 failed to infect 55 
+Interaction:
+
+0 failed to infect 46 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 90 
+Interaction:
+
+0 failed to infect 55 
+Interaction:
+
+0 failed to infect 22 
+Interaction:
+
+0 failed to infect 93 
+Interaction:
+
+0 failed to infect 66 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 78 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 99 
+Interaction:
+
+0 failed to infect 55 
+Interaction:
+
+0 failed to infect 93 
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 11 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 57 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 78 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 43 
+Interaction:
+
+0 failed to infect 3 
+Interaction:
+
+0 failed to infect 63 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 23 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 27 
+Time Step number:
+
+Time step 6 ended, beginning 7
+Interaction:
+
+0 failed to infect 45 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 43 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 76 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 71 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 66 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 10 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 71 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 82 
+Interaction:
+
+0 failed to infect 91 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 57 
+Interaction:
+
+0 failed to infect 2 
+Interaction:
+
+0 failed to infect 11 
+Interaction:
+
+0 infects 37 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 74 
+Interaction:
+
+0 failed to infect 47 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 67 
+Interaction:
+
+0 failed to infect 44 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 45 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 32 
+Interaction:
+
+0 failed to infect 15 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 40 
+Interaction:
+
+0 failed to infect 15 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 23 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 27 
+Interaction:
+
+0 failed to infect 94 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 67 
+Interaction:
+
+0 failed to infect 76 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 46 
+Interaction:
+
+0 failed to infect 22 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 90 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 5 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 13 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 43 
+Interaction:
+
+0 failed to infect 23 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 32 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 8 
+Interaction:
+
+0 failed to infect 51 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 10 
+Interaction:
+
+0 failed to infect 15 
+Interaction:
+
+0 failed to infect 71 
+Time Step number:
+
+Time step 7 ended, beginning 8
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 76 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 28 
+Interaction:
+
+0 failed to infect 99 
+Interaction:
+
+0 failed to infect 57 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 7 
+Interaction:
+
+0 failed to infect 78 
+Interaction:
+
+0 failed to infect 94 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 26 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 failed to infect 27 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 10 
+Interaction:
+
+0 failed to infect 20 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 22 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 20 
+Interaction:
+
+0 failed to infect 0 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 57 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 76 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 4 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 90 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 28 
+Interaction:
+
+0 failed to infect 82 
+Interaction:
+
+0 failed to infect 18 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 7 
+Interaction:
+
+0 failed to infect 21 
+Interaction:
+
+0 failed to infect 76 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 15 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 51 
+Interaction:
+
+0 failed to infect 64 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 63 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 10 
+Interaction:
+
+0 failed to infect 76 
+Interaction:
+
+0 failed to infect 5 
+Interaction:
+
+0 failed to infect 55 
+Interaction:
+
+0 failed to infect 94 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 32 
+Interaction:
+
+0 failed to infect 3 
+Interaction:
+
+0 failed to infect 11 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 2 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 5 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 22 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 66 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 23 
+Interaction:
+
+0 failed to infect 74 
+Interaction:
+
+0 failed to infect 55 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 11 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 44 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 42 
+Time Step number:
+
+Time step 8 ended, beginning 9
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 13 
+Interaction:
+
+0 failed to infect 20 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 63 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 51 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 4 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 11 
+Interaction:
+
+0 failed to infect 40 
+Interaction:
+
+0 failed to infect 32 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 98 
+Interaction:
+
+0 failed to infect 51 
+Interaction:
+
+0 failed to infect 0 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 66 
+Interaction:
+
+0 failed to infect 46 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 63 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 26 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 15 
+Interaction:
+
+0 failed to infect 3 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 90 
+Interaction:
+
+0 failed to infect 20 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 11 
+Interaction:
+
+0 failed to infect 28 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 15 
+Interaction:
+
+0 failed to infect 82 
+Interaction:
+
+0 failed to infect 63 
+Interaction:
+
+0 failed to infect 91 
+Interaction:
+
+0 failed to infect 90 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 18 
+Interaction:
+
+0 failed to infect 49 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 76 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 17 
+Interaction:
+
+0 failed to infect 8 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 98 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 43 
+Interaction:
+
+0 failed to infect 64 
+Interaction:
+
+0 failed to infect 0 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 74 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 57 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 44 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 89 
+Time Step number:
+
+Time step 9 ended, beginning 10
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 49 
+Interaction:
+
+0 failed to infect 99 
+Interaction:
+
+0 failed to infect 40 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 90 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 49 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 63 
+Interaction:
+
+0 failed to infect 4 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 64 
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 67 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 18 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 43 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 50 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 10 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 40 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 failed to infect 91 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 4 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 8 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 11 
+Interaction:
+
+0 failed to infect 55 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 90 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 21 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 3 
+Interaction:
+
+0 failed to infect 5 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 7 
+Interaction:
+
+0 failed to infect 45 
+Interaction:
+
+0 failed to infect 47 
+Interaction:
+
+0 failed to infect 55 
+Interaction:
+
+0 failed to infect 18 
+Interaction:
+
+0 failed to infect 67 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 23 
+Interaction:
+
+0 failed to infect 21 
+Interaction:
+
+0 failed to infect 22 
+Interaction:
+
+0 failed to infect 10 
+Interaction:
+
+0 failed to infect 78 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 63 
+Interaction:
+
+0 failed to infect 74 
+Interaction:
+
+0 failed to infect 18 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 32 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 32 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 20 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 44 
+Time Step number:
+
+Time step 10 ended, beginning 11
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 32 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 49 
+Interaction:
+
+0 failed to infect 13 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 45 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 2 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 50 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 99 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 63 
+Interaction:
+
+0 failed to infect 36 
+Interaction:
+
+0 failed to infect 99 
+Interaction:
+
+0 failed to infect 45 
+Interaction:
+
+0 failed to infect 28 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 32 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 98 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 17 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 80 
+Interaction:
+
+0 failed to infect 82 
+Interaction:
+
+0 failed to infect 5 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 4 
+Interaction:
+
+0 failed to infect 74 
+Interaction:
+
+0 failed to infect 46 
+Interaction:
+
+0 failed to infect 93 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 11 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 22 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 46 
+Interaction:
+
+0 failed to infect 67 
+Interaction:
+
+0 failed to infect 64 
+Interaction:
+
+0 failed to infect 21 
+Interaction:
+
+0 failed to infect 32 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 43 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 9 
+Interaction:
+
+0 failed to infect 18 
+Interaction:
+
+0 failed to infect 96 
+Interaction:
+
+0 failed to infect 28 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 92 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 50 
+Interaction:
+
+0 failed to infect 71 
+Interaction:
+
+0 failed to infect 46 
+Interaction:
+
+0 failed to infect 11 
+Interaction:
+
+0 failed to infect 50 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 15 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 47 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 74 
+Interaction:
+
+0 failed to infect 48 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 47 
+Interaction:
+
+0 failed to infect 13 
+Interaction:
+
+0 failed to infect 86 
+Interaction:
+
+0 failed to infect 60 
+Interaction:
+
+0 failed to infect 3 
+Interaction:
+
+0 failed to infect 79 
+Interaction:
+
+0 failed to infect 71 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 78 
+Interaction:
+
+0 failed to infect 28 
+Interaction:
+
+0 failed to infect 82 
+Interaction:
+
+0 failed to infect 8 
+Time Step number:
+
+Time step 11 ended, beginning 12
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 59 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 17 
+Interaction:
+
+0 failed to infect 5 
+Interaction:
+
+0 failed to infect 4 
+Interaction:
+
+0 failed to infect 38 
+Interaction:
+
+0 failed to infect 63 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 68 
+Interaction:
+
+0 failed to infect 17 
+Interaction:
+
+0 failed to infect 49 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 47 
+Interaction:
+
+0 failed to infect 85 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 89 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 93 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 83 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 62 
+Interaction:
+
+0 failed to infect 78 
+Interaction:
+
+0 failed to infect 52 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 4 
+Interaction:
+
+0 failed to infect 88 
+Interaction:
+
+0 failed to infect 47 
+Interaction:
+
+0 failed to infect 27 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 56 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 46 
+Interaction:
+
+0 failed to infect 12 
+Interaction:
+
+0 failed to infect 47 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 82 
+Interaction:
+
+0 failed to infect 45 
+Interaction:
+
+0 failed to infect 7 
+Interaction:
+
+0 failed to infect 50 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 24 
+Interaction:
+
+0 failed to infect 15 
+Interaction:
+
+0 failed to infect 58 
+Interaction:
+
+0 failed to infect 11 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 27 
+Interaction:
+
+0 failed to infect 82 
+Interaction:
+
+0 failed to infect 81 
+Interaction:
+
+0 failed to infect 76 
+Interaction:
+
+0 failed to infect 2 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 26 
+Interaction:
+
+0 failed to infect 8 
+Interaction:
+
+0 failed to infect 97 
+Interaction:
+
+0 failed to infect 70 
+Interaction:
+
+0 failed to infect 26 
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 27 
+Interaction:
+
+0 failed to infect 42 
+Interaction:
+
+0 infects 99 
+Interaction:
+
+0 failed to infect 0 
+Interaction:
+
+0 failed to infect 35 
+Interaction:
+
+0 failed to infect 18 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 69 
+Interaction:
+
+0 failed to infect 32 
+Interaction:
+
+0 failed to infect 22 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 84 
+Interaction:
+
+0 failed to infect 3 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 1 
+Interaction:
+
+0 failed to infect 45 
+Interaction:
+
+0 failed to infect 30 
+Interaction:
+
+0 failed to infect 75 
+Interaction:
+
+0 failed to infect 41 
+Interaction:
+
+0 failed to infect 2 
+Interaction:
+
+0 failed to infect 22 
+Interaction:
+
+0 failed to infect 33 
+Interaction:
+
+0 failed to infect 6 
+Interaction:
+
+0 failed to infect 16 
+Interaction:
+
+0 failed to infect 94 
+Interaction:
+
+0 failed to infect 53 
+Interaction:
+
+0 failed to infect 67 
+Interaction:
+
+0 failed to infect 14 
+Interaction:
+
+0 failed to infect 95 
+Interaction:
+
+0 failed to infect 8 
+Time Step number:
+
+Time step 12 ended, beginning 13

@@ -64,6 +64,7 @@ class Person(object):
               self.is_alive = False
               print("This Person has died")
           else:
+              print("The Person did not die and is now vaccinated")
               self.infection = None
               self.is_vaccinated = True
         else:

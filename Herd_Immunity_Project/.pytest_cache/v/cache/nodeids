@@ -1,3 +1,6 @@
 [
-  "simulation_test.py::test_simulation_instantiation"
+  "simulation.py::test_simulation_instantiation",
+  "simulation.py::test_should_continue_simulation",
+  "simulation.py::test_run",
+  "simulation.py::test_interaction"
 ]

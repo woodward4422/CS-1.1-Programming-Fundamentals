@@ -74,9 +74,9 @@ class Logger(object):
             logger.write("Percentage Vaccinated: {}\n".format(vacc_percentage))
             logger.write("Virus Name: {}\n".format(virus_name))
             logger.write("Mortality Rate: {}\n".format(mortality_rate))
-            logger.write("Basic Reproduction Rate: {}".format(basic_repro_num))
+            logger.write("Basic Reproduction Rate: {} \n".format(basic_repro_num))
 
-            logger.write(pop_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num, end="\t")
+            
         
 
     def log_interaction(self, person1, person2, did_infect):
