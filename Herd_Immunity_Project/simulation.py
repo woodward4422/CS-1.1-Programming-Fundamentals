@@ -323,9 +323,7 @@ def test_simulation_instantiation():
     assert ebola_simulation.vacc_percentage == 0.8
     print(len(ebola_simulation.population))
     assert len(ebola_simulation.population) == 1000
-
-
-    
+ 
 
 def test_should_continue_simulation():
     ebola_simulation = Simulation(0,0.8,"Ebola",0.7,0.3)
@@ -335,13 +333,6 @@ def test_should_continue_simulation():
     true_sim = ebola_new._simulation_should_continue()
     assert true_sim == True
 
-def test_run():
-     ebola_simulation = Simulation(1000,0.8,"Ebola",0.7,0.3)
-     ebola_simulation.run()
-
-# def test_time_step():
-#     ebola_simulation = Simulation(1000,0.8,"Ebola",0.7,0.3)
-#     ebola_simulation.time_step()
 
 def test_interaction():
     ebola_simulation = Simulation(1000,0.8,"Ebola",0.7,0.3)
@@ -358,20 +349,20 @@ def test_interaction():
 
 
 if __name__ == "__main__":
-    # params = sys.argv[1:]
-    # pop_size = int(params[0])
-    # vacc_percentage = float(params[1])
-    # virus_name = str(params[2])
-    # mortality_rate = float(params[3])
-    # basic_repro_num = float(params[4])
-    # if len(params) == 6:
-    #     initial_infected = int(params[5])
-    # else:
-    #     initial_infected = 1
-    # simulation = Simulation(pop_size, vacc_percentage, virus_name, mortality_rate,
-    #                         basic_repro_num, initial_infected)
-    # simulation.run()
-    ebola_simulation = Simulation(1000,0.80,"Ebola",0.7,0.3)
-    ebola_simulation.run()
+    params = sys.argv[1:]
+    pop_size = int(params[0])
+    vacc_percentage = float(params[1])
+    virus_name = str(params[2])
+    mortality_rate = float(params[3])
+    basic_repro_num = float(params[4])
+    if len(params) == 6:
+        initial_infected = int(params[5])
+    else:
+        initial_infected = 1
+    simulation = Simulation(pop_size, vacc_percentage, virus_name, mortality_rate,
+                            basic_repro_num, initial_infected)
+    simulation.run()
+    # ebola_simulation = Simulation(1000,0.80,"Ebola",0.7,0.3)
+    # ebola_simulation.run()
 
 
